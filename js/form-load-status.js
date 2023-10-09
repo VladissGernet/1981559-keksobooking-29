@@ -29,7 +29,7 @@ const activateAdForm = () => {
   adForm.addEventListener('reset', onResetForm);
   adForm.addEventListener('submit', onSubmit);
   priceInput.addEventListener('keydown', (evt) => {
-    if (evt.key === '-' || evt.key === '+' || evt.key === 'e') {
+    if (evt.key === '-' || evt.key === '+' || evt.key === 'e' || evt.key === 'E') {
       evt.preventDefault();
     }
   });
