@@ -97,7 +97,7 @@ const pristineDefaultConfig = {
   errorTextTag: 'div',
   errorTextClass: 'ad-form__element__help'
 };
-const BASE_URL = 'https://29.javascript.pages.academy/keksobooking';
+const BASE_URL = 'https://29.javascript.htmlacademy.pro/keksobooking';
 const Route = {
   GET_DATA: '/data',
   SEND_DATA: '/',

@@ -543,6 +543,8 @@ fieldset {
   min-height: 230px;
 
   padding-top: 10px;
+
+  resize: none;
 }
 
 .ad-form__photo-container {
